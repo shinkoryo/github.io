@@ -1,9 +1,11 @@
-# shinkoryo.github.io
+# [Home](https://shinkoryo.github.io)
 
-贵有恒，何必三更起五更睡  
-最无益，只怕一日暴十日寒
+贵有恒，何必三更起五更睡。最无益，只怕一日暴十日寒。
+
+[Books](https://shinkoryo.github.io) | [Python](https://shinkoryo.github.io)
 
 ## Deep Leaning Book
+[参照リンク](https://hadrienj.github.io)
 * __Chapter 2__  
 [2.1 Scalars Vectors Matrices and Tensors](./dlbook/chap2/2.1.md)  
 [2.2 Multiplying Matrices and Vectors](./dlbook/chap2/2.2.md)  
