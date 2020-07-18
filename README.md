@@ -2,7 +2,7 @@
 
 贵有恒，何必三更起五更睡。最无益，只怕一日暴十日寒。
 
-[Books](https://shinkoryo.github.io) | [Python](https://shinkoryo.github.io/python)
+[Books](./book/books.md) | [Python](./python/python_index.md)
 
 ## Deep Leaning Book
 [参照リンク](https://hadrienj.github.io)
