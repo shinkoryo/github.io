@@ -4,4 +4,4 @@
 
 #### サイト作成参照リンク
 
-https://haltaro.github.io/2017/07/30/first-post
+[JekyllとGitHub Pagesでウェブサイト自作](https://haltaro.github.io/2017/07/30/first-post)
