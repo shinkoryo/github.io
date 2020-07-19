@@ -1,4 +1,4 @@
-#  Coming Soon
+##### [← Back](https://shinkoryo.github.io)
 
 
 ## Deep Leaning Book
