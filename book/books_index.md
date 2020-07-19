@@ -1,5 +1,9 @@
 ##### [← Back](https://shinkoryo.github.io)
 
+## 各種言語比較サイト
+
+[hydroculのメモ](https://hydrocul.github.io/wiki/)
+
 ## Python
 
 [Python Cookbook 3rd Edition Documentation](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)<br>
