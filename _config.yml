@@ -1,4 +1,5 @@
 title: " "
 description: 贵有恒、何必三更起五更睡 <br> 最无益、只怕一日暴十日寒 
 theme: jekyll-theme-slate
-<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+author:
+  picture:  /images/favicon.png
