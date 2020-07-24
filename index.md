@@ -1,4 +1,7 @@
+<head>
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+
+</head>
 
 ## [Books](./book/books_index.md) 
 ## [Python](./python/python_index.md) 
