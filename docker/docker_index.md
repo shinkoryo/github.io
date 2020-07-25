@@ -430,6 +430,20 @@ services:
    - /opt/docker_gitlab/logs:/var/log/gitlab
 ```
 ### 十、搭建GitlabRunner
+
+```
+一 准备环境
+
+ - 复制 daemon.json 到 /etc/docker/, 并执行 systemctl daemon-reload, systemctl restart docker
+  - 创建工作目录 /opt/docker_gitlab-runner
+  - 将提供好的 docker-compose.yml 文件以及 enviroment 目录全部复制到上述目录中
+  - 在宿主机启动docker程序后先执行 sudo chown root:root/var/run/docker.sock (如果重启过docker，重新执行)
+  - 在/opt/docker_gitlab-runner 目录中执行 docker-compose up -d --build 启动容器
+  - 添加容器权限，保证容器可以使用宿主机docker 
+    docker exec -it gitlab-runner usermod -aG root gitlab-runner
+  - 注册Runner信息到gitlab
+```
+
 1.准备文件
 ```
 daemon.json
