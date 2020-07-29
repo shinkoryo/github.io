@@ -1,15 +1,15 @@
-# Vim入門
+# VIM入門
 
  - [参照リンク](https://qiita.com/kyawphyonaing/items/b31378ccde7957bc541d)
 
-![vim_cs.png](images/vim_cs.png)
+![VIM_cs.png](images/VIM_cs.png)
 
-## Vimとは？
+## VIMとは？
 viから派生した高機能なテキストエディタです。
 viはLinuxに標準搭載されているため、使ったことがある人は多いと思います。
 大体同じような操作感ですが、viと違うところもあります。
 
-## vimの特徴
+## VIMの特徴
 + ストレスの少ないマルチプラットフォーム
 + とにかく軽くて速い
 + 基本的にキーボードだけで操作が可能
@@ -18,11 +18,11 @@ viはLinuxに標準搭載されているため、使ったことがある人は�
 + Mac / Ubuntu
   + MacとUbuntuには最初からインストールされています。
 + Windows 
-  + http://www.kaoriya.net/software/vim/ からダウンロードできます。
+  + http://www.kaoriya.net/software/VIM/ からダウンロードできます。
 + ローカル開発環境
-  + `sudo yum install -y vim` インストールが完了すれば、 vim コマンドを利用できるようになります。  
+  + `sudo yum install -y VIM` インストールが完了すれば、 VIM コマンドを利用できるようになります。  
   
-## vimのモードについて
+## VIMのモードについて
 | key       | 内容           |
 |---|---|
 | ノーマルモード |カーソル移動やテキストの削除、コピー、ペーストなどの簡単な指示を行う。  |
@@ -41,18 +41,18 @@ viはLinuxに標準搭載されているため、使ったことがある人は�
 | Ctrl + v | 矩形選択のビジュアルモードへ|
 | ESC | コマンドモードに戻る|
 | ctrl + \[ | コマンドモードに戻る|
-| ctrl + z | vim を一時停止する|
+| ctrl + z | VIM を一時停止する|
 |ciw|カーソル上の単語を削除してインサートモードへ|
 
-## Vimの保存と終了
+## VIMの保存と終了
 | key       | 内容           |
 |---|---|
 | :w [ファイル名] |指定されたファイル名で保存する。ファイル名を省略した場合には、現在のファイルに上書きする |
 | :w! [ファイル名] | 書き込みを強行する |
-| ZZ |Vimを終了する。ファイルが変更されている場合には、変更を保存する  |
-| :wq | ファイルを保存してVimを終了する |
-| :q | Vimを終了する。ファイルに変更がある場合には警告が標示される |
-|:q!  |Vimを強制的に終了する。ファイルに変更がある場合は、変更分は無視  |
+| ZZ |VIMを終了する。ファイルが変更されている場合には、変更を保存する  |
+| :wq | ファイルを保存してVIMを終了する |
+| :q | VIMを終了する。ファイルに変更がある場合には警告が標示される |
+|:q!  |VIMを強制的に終了する。ファイルに変更がある場合は、変更分は無視  |
 
 ## カーソル位置を移動
 | key       | 内容           |
@@ -167,5 +167,5 @@ viはLinuxに標準搭載されているため、使ったことがある人は�
 |Ctrl + a | 数値のインクリメント|
 |Ctrl + x | 数値のデクリメント|
 
-[Interactive Vim tutorial](https://www.openvim.com/)  
-[Learning VIM while playing a game](https://vim-adventures.com/)
+[Interactive VIM tutorial](https://www.openVIM.com/)  
+[Learning VIM while playing a game](https://VIM-adventures.com/)
