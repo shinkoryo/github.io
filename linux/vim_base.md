@@ -2,7 +2,7 @@
 
  - [参照リンク](https://qiita.com/kyawphyonaing/items/b31378ccde7957bc541d)
 
-![vim_cs.png](images/VIM_cs.png)
+![vim_cs.png](images/vim_cs.png)
 
 ## VIMとは？
 viから派生した高機能なテキストエディタです。
