@@ -169,5 +169,5 @@ viはLinuxに標準搭載されているため、使ったことがある人は�
 |Ctrl + a | 数値のインクリメント|
 |Ctrl + x | 数値のデクリメント|
 
-[Interactive Vim tutorial](https://www.openvim.com/)
+[Interactive Vim tutorial](https://www.openvim.com/)  
 [Learning VIM while playing a game](https://vim-adventures.com/)
