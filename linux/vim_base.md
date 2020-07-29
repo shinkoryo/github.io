@@ -20,7 +20,7 @@ viはLinuxに標準搭載されているため、使ったことがある人は�
 + Windows 
   + http://www.kaoriya.net/software/VIM/ からダウンロードできます。
 + ローカル開発環境
-  + `sudo yum install -y VIM` インストールが完了すれば、 VIM コマンドを利用できるようになります。  
+  + ```sudo yum install -y VIM``` インストールが完了すれば、 VIM コマンドを利用できるようになります。  
   
 ## VIMのモードについて
 | key       | 内容           |
