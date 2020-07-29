@@ -8,8 +8,8 @@
 
 
 ## Vim
-  - [viショートカット](./vim_base.md) 
-  - [viエディター操作](http://www.ne.jp/asahi/hishidama/home/tech/unix/vi.html#e)
+  - [viｍ ショートカット](./vim_base.md) 
+  - [viｍ エディター操作](http://www.ne.jp/asahi/hishidama/home/tech/unix/vi.html#e)
 
 ## gcc
 

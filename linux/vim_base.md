@@ -1,9 +1,7 @@
----
-title: Vim入門
-tags: Vim 初心者 エディタ editor 入門
-author: kyawphyonaing
-slide: false
----
+# Vim入門
+
+ - [参照リンク](https://qiita.com/kyawphyonaing/items/b31378ccde7957bc541d)
+
 ![vim_cs.png](images/vim_cs.png)
 
 # Vimとは？
