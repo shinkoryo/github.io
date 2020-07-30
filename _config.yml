@@ -1,14 +1,5 @@
-plugins:
-#  - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
-  - jekyll-paginate
-#  - jekyll-jupyter-notebook
-
-exclude:
-  - "/vendor/"
-
 title: Take a break
 description: 贵有恒、何必三更起五更睡 <br> 最无益、只怕一日暴十日寒 
-# theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 cover: "/images/cover_image.jpg"
 logo: "/images/logo.png"
