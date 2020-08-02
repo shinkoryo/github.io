@@ -3,7 +3,7 @@
 # Linux
 
 ## Linux Typing
-  - [Linux Typing](./linux_typing.md) 
+  - [Linux Typing](https://linuxtools-rst.readthedocs.io/zh_CN/latest/)
 
 ## Linux Base
   - [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/)
