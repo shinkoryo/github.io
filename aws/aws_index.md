@@ -48,13 +48,13 @@ IAM主要提供了用户认证和凭证管理的功能。所有AWS内部使用�
 - Elastic Cloud Compute (EC2) – 计算服务  
 EC2提供了AWS的计算服务，类似于虚拟机。只需要在网页上简单地进行几步操作，就可以在AWS上创建自己需要的基于不同CPU，内存，磁盘，网络带宽和操作系统的EC2实例。并且AWS提供了多种不同的预配置模板方便大家创建实例。
 
-- Simple Storage Service (S3) – 存储服务
+- Simple Storage Service (S3) – 存储服务  
 S3提供的是对象存储服务，能够保存任何格式的文件并且没有容量的限制。S3有99.9999999%（11个9）的耐久性，保证你的文件几乎永远不会丢失。你可以从互联网上任何地方使用任何终端访问S3内的资源。
 
-- Virtual Private Cloud (VPC) – 网络服务
+- Virtual Private Cloud (VPC) – 网络服务  
 VPC提供了AWS内的网络服务，使用VPC可以很好地架构AWS的网络基础架构。你可以创建位于不同可用区的网段保证网络高可用，也可以利用DirectConnect或者VPN将AWS与企业内部的网络打通。
 
-- Relational Database Service (RDS) 数据库服务
+- Relational Database Service (RDS) 数据库服务  
 RDS提供了MySQL, Microsoft SQL Server, MariaDB等等的关系型数据库，RDS让你不再需要维护数据库底层的应用程序和操作系统，而是只需要关注数据库层面就可以了。RDS也有很完备的高可用方案，保证你的数据库能自动备份和迁移。
 
 #### 细分服务
@@ -80,7 +80,8 @@ RDS提供了MySQL, Microsoft SQL Server, MariaDB等等的关系型数据库，RD
 
 #### 更多阅读资料
 51CTO学院 – 深入了解亚马逊AWS之产品解析视频课程  
-这个是AWS官方的视频，简要地讲解了AWS 16个基础服务，大部分服务会包含在AWS助理级解决方案架构师的考试中。但这只是个可选的课外阅读材料，挨踢小茶在后面的章节会仔细讲解每一个考试中包括的服务。
+这个是AWS官方的视频，简要地讲解了AWS 16个基础服务，大部分服务会包含在AWS助理级解决方案架构师的考试中。  
+但这只是个可选的课外阅读材料，挨踢小茶在后面的章节会仔细讲解每一个考试中包括的服务。  
 https://edu.51cto.com/center/course/lesson/index?id=107713
 
 ------------------------------------------------------------------------------------------------
@@ -104,13 +105,6 @@ https://edu.51cto.com/center/course/lesson/index?id=107713
 - 策略（Policy）：定义具体访问权限的文档
   - 策略具体定义了能访问哪些AWS资源，并且能执行哪些操作（比如List, Read, Write等）
   - 策略的文档以JSON的格式展现
-
-##### 策略（Policy）
-
-：定义具体访问权限的文档
-
-- 策略具体定义了能访问哪些AWS资源，并且能执行哪些操作（比如List, Read, Write等）
-- 策略的文档以JSON的格式展现
 
 ```
 {
